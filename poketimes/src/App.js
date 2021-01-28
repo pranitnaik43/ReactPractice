@@ -3,8 +3,12 @@ import Home from './Components/Home';
 import Contact from './Components/Contact';
 import About from './Components/About';
 import Navbar from './Components/Navbar';
+<<<<<<< HEAD
 import Post from './Components/Post';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
+=======
+import {BrowserRouter, Route} from 'react-router-dom';
+>>>>>>> 395631f2a4545a39b3c3b778a4347fb573b0b2ff
 
 class App extends React.Component {
   render() {
